@@ -8,9 +8,9 @@
     🖥️ Experienced in managing self-hosted VPS, Linux server infrastructure for 500+ users, and ERP systems.
   </p>
 
-
+  <!-- Social & Contact Links -->
   <p>
-    <a href="https://www.linkedin.com/in/steven-febrian" target="https://www.linkedin.com/in/steven-febrian-78b174324">
+    <a href="https://www.linkedin.com/in/steven-febrian-78b174324/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Steven_Febrian-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:stevenfebrian401@gmail.com">
@@ -72,13 +72,22 @@
 
 ### 🚀 Featured Repositories
 
-Here is a selection of my projects spanning full-stack web engineering, network programming, and artificial intelligence:
+Here is a selection of my projects spanning full-stack web development, network programming, and artificial intelligence:
 
-| Project | Category | Overview & Architecture | Tech Stack |
+| Project | Category | Overview | Highlights / Stack |
 | :--- | :--- | :--- | :--- |
 | 📋 **[Task Management Platform](https://github.com/OdysSteph/task-management-platform)** | Full-Stack Web | A collaborative, real-time task and workflow management platform designed for tracking team progress and project milestones. | `Laravel` `React` `Real-time` |
-| 💬 **[GO-TCP-Chat](https://github.com/OdysSteph/GO-TCP-Chat)** | Network / Systems | Terminal-based multi-client TCP chat server & client. Uses **goroutines** to handle concurrent connections, real-time message broadcasting, and disconnect events. | `Go` `TCP Sockets` `Concurrency` |
-| 👟 **[Lex-Shoes](https://github.com/OdysSteph/Lex-Shoes)** | E-Commerce | Full-featured footwear e-commerce web application implementing MVC architecture, role-based flows for users/admins, catalog management, and checkout workflows. | `Spring Boot` `Thymeleaf` `PostgreSQL` |
-| 🏋️ **[Majapahid-Gym](https://github.com/OdysSteph/Majapahid-Gym)** | Management App | Gym membership and class booking system built to handle subscription billing, member registrations, and schedule management. | `Spring Boot` `Thymeleaf` `PostgreSQL` |
-| 🐦 **[Tuiter](https://github.com/OdysSteph/Tuiter)** | Social Media | Twitter-inspired microblogging platform featuring user feeds, post threads, and interactive social engagement features. | `Full-Stack` `Web App` |
-| ☯️ **[Yin-Yang-Solver](https://github.com/OdysSteph/Yin-Yang-Solver)** | AI / Algorithm | Automated puzzle solver leveraging state-space search algorithms to resolve complex Yin-Yang grid logic puzzles. | `Java` `AI` `Search
+| 💬 **[GO-TCP-Chat](https://github.com/OdysSteph/GO-TCP-Chat)** | Network / CLI | Terminal-based multi-client TCP chat server & client. Uses **goroutines** to handle concurrent connections, real-time message broadcasting, and disconnect events. | `Go` `TCP Sockets` `Concurrency` |
+| 👟 **[Lex-Shoes](https://github.com/OdysSteph/Lex-Shoes)** | E-Commerce | A full-featured online footwear store offering product catalog browsing, shopping cart management, and checkout workflows. | `E-Commerce` `Web App` |
+| 🏋️ **[Majapahid-Gym](https://github.com/OdysSteph/Majapahid-Gym)** | Management App | Gym membership and class booking application designed to streamline subscription payments and class scheduling. | `Membership` `Payment` `Booking` |
+| 🐦 **[Tuiter](https://github.com/OdysSteph/Tuiter)** | Social Media | Twitter-inspired microblogging platform featuring user feeds, post threads, and interactive social engagement features. | `Social Media` `Web App` |
+| ☯️ **[Yin-Yang-Solver](https://github.com/OdysSteph/Yin-Yang-Solver)** | AI / Algorithm | Automated puzzle solver built in Java using search algorithms to resolve complex Yin-Yang grid logic puzzles. | `Java` `AI` `Search Algorithm` |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=OdysSteph&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdysSteph&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</div>
